@@ -1,0 +1,29 @@
+{
+  "name": "nyc-restaurant-week",
+  "version": "1.0.0",
+  "description": "To help decide what restaurants to visit for NYC Restaurant Week.",
+  "main": "nycrw.js",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.58.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianvmodesto/nyc-restaurant-week.git"
+  },
+  "keywords": [
+    "nyc",
+    "restaurant",
+    "week"
+  ],
+  "author": "Julian V. Modesto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianvmodesto/nyc-restaurant-week/issues"
+  },
+  "homepage": "https://github.com/julianvmodesto/nyc-restaurant-week#readme"
+}
